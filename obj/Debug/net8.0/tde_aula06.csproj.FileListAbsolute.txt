@@ -1,0 +1,14 @@
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.AssemblyInfoInputs.cache
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.AssemblyInfo.cs
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.csproj.CoreCompileInputs.cache
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\bin\Debug\net8.0\tde_aula06.exe
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\bin\Debug\net8.0\tde_aula06.deps.json
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\bin\Debug\net8.0\tde_aula06.runtimeconfig.json
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\bin\Debug\net8.0\tde_aula06.dll
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\bin\Debug\net8.0\tde_aula06.pdb
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.dll
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\refint\tde_aula06.dll
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.pdb
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\tde_aula06.genruntimeconfig.cache
+D:\Ulbra\Laboratorio de Programação\Aula06\tde_aula06\tde_aula06\obj\Debug\net8.0\ref\tde_aula06.dll
